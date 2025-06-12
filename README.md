@@ -53,14 +53,14 @@ My name is Gabriel Macedo, I'm 19 years old and I'm from São Paulo. I'm current
     <img 
         align='left' 
         alt='GitHub Stats'
-        height='200'
+        height='150'
         style='padding-right: 10px'
         src="https://github-readme-stats.vercel.app/api?username=gabmacedo&show_icons=true&theme=dracula&include_all_commits=true" 
     />
     <img 
         align='left' 
         alt='GitHub Stats'
-        height='200'
+        height='150'
         style='padding-right: 10px'
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmacedo&theme=dracula&layout=compact&langs_count=4" 
     />
