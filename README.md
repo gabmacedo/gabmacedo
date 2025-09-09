@@ -27,7 +27,7 @@ My name is Gabriel Macedo, I'm 19 years old and I'm from São Paulo. I'm current
 <br>
 <br>
 
-**Future Study Technologies:**
+**Studying Lnaguages:**
 
 <div style='display: inline_block'>
     <img align='left' alt='React' title='React' style='padding-right: 10px'
@@ -36,8 +36,6 @@ My name is Gabriel Macedo, I'm 19 years old and I'm from São Paulo. I'm current
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align='left' alt='MySQL' title='MySQL' style='padding-right: 10px'
         src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align='left' alt='POSTGRES' title='POSTGRES' style='padding-right: 10px'
-        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <br>
 <br>
