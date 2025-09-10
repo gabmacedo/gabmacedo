@@ -27,7 +27,7 @@ My name is Gabriel Macedo, I'm 19 years old and I'm from São Paulo. I'm current
 <br>
 <br>
 
-**Studying Lnaguages:**
+**Studying Techs:**
 
 <div style='display: inline_block'>
     <img align='left' alt='React' title='React' style='padding-right: 10px'
