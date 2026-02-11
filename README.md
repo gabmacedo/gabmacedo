@@ -2,7 +2,7 @@
 
 **`Information Systems Student | Backend`**
 
-My name is Gabriel Macedo, I'm 19 years old and I'm from São Paulo. I'm currently studying Information Systems at Faculdade Impacta de Tecnologia. I'm passionate about technology and I always enjoy learning new technologies.
+My name is Gabriel Macedo, I'm 20 years old and I'm from São Paulo. I'm currently studying Information Systems at Faculdade Impacta de Tecnologia. I'm passionate about technology and I always enjoy learning new technologies.
 
 ---
 
