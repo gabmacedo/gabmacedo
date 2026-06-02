@@ -1,8 +1,8 @@
 # Hi, I'm Gabriel Macedo 👋
 
-### Information Systems Student | Backend Developer
+> Information Systems Student | Backend Developer
 
-I'm Gabriel Macedo, a 20-year-old Information Systems student from São Paulo, Brazil.
+I'm Gabriel Macedo, a 20-year-old Information Systems student.
 
 Currently, I'm pursuing my degree at Faculdade Impacta de Tecnologia and focusing my studies on backend development, APIs, databases, software architecture, and cloud technologies.
 
@@ -10,79 +10,31 @@ I enjoy building practical projects, learning new technologies, and improving my
 
 ---
 
-## 🚀 About Me
+### 🛠️ Tech Stack
 
-* 🎓 Information Systems Student
-* 💻 Focused on Backend Development
-* 🌱 Currently learning Software Architecture and Cloud Computing
-* 📚 Constantly improving my knowledge through personal and academic projects
-* 🎯 Looking for Backend Internship Opportunities
+#### Languages & Technologies
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,react,html,css,vite,tailwind,py)](https://skillicons.dev)
 
----
+#### Database & Data
 
-## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,firebase,redis)](https://skillicons.dev)
 
-### Languages
+#### Tools & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github,windows,linux,figma)](https://skillicons.dev)
 
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/BullMQ-EA4C89?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### Frontend (Learning)
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+#### Learning
+[![My Skills](https://skillicons.dev/icons?i=aws,go,jest)](https://skillicons.dev)
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/gabmacedo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/gabmacedo" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/dd64106ffd24024e808edd462058e48bfdc41359f8f179c54fd21ce3ca647e4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3145314531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
-  <a href="mailto:contato@gabmacedo.dev">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:contato@gabmacedo.dev" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/f7ca66c9562a36027eef836f4dcbb07c771da211ee10090f76cb6bf20e242afa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3145314531453f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
-
-  <a href="https://github.com/gabmacedo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-> Building, learning, and improving every day.
